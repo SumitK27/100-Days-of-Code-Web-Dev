@@ -11,8 +11,7 @@
       1. [**1. HTML**](#1-html)
       2. [**2. CSS**](#2-css)
       3. [**3. JS**](#3-js)
-   4. [**WWW**](#www)
-   5. [**Creating our First HTML Page**](#creating-our-first-html-page)
+   4. [**Creating our First HTML Page**](#creating-our-first-html-page)
 
 # **Day 1**
 
@@ -52,8 +51,8 @@ Example -
 https://google.com/search
 ```
 
-**Protocol** - Hypertext Transfer Protocol Secure. `https`://google.com/search
-**Domain** - Human-readable address (identifier) of a website. https://`google.com`/search
+**Protocol** - Hypertext Transfer Protocol Secure. `https`://google.com/search <br />
+**Domain** - Human-readable address (identifier) of a website. https://`google.com`/search <br />
 **Path** - Pointer to a specific resource. https://google.com`/search`
 
 ### **DNS**
@@ -106,8 +105,6 @@ The Browser Instructions mentioned earlier are the programming languages of the 
 -   It is optional.
 -   It allows the interactivity needed to display the page.
 -   It controls clicking of the buttons, convert something, etc.
-
-## **WWW**
 
 ## **Creating our First HTML Page**
 
