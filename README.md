@@ -11,7 +11,7 @@
 
 # **Day 1**
 
-Navigate to [**Day 1**]("./../Day%201/README.md)
+Navigate to [**Day 1**]("Day%201/)
 
 -   What is Web Development?
 -   How does the Web works
@@ -22,7 +22,7 @@ Navigate to [**Day 1**]("./../Day%201/README.md)
 
 # **Day 2**
 
-Navigate to [**Day 2**](Day%202/README.md)
+Navigate to [**Day 2**](Day%202/)
 
 -   Setting up the environment for Web Development.
 -   HTML Element, Tags and Attributes.
@@ -30,7 +30,7 @@ Navigate to [**Day 2**](Day%202/README.md)
 
 # **Day 3**
 
-Navigate to [**Day 3**](Day%203/README.md)
+Navigate to [**Day 3**](Day%203/)
 
 -   Colors in CSS
 -   Code Formatting
@@ -43,7 +43,7 @@ Navigate to [**Day 3**](Day%203/README.md)
 
 # **Day 4**
 
-Navigate to [**Day 4**](Day%204/README.md)
+Navigate to [**Day 4**](Day%204/)
 
 -   Overwriting Default CSS Rules
 -   Using CSS Pseudo Selector
@@ -56,7 +56,7 @@ Navigate to [**Day 4**](Day%204/README.md)
 
 # **Day 5**
 
-Navigate to [**Day 5**](Day%205/README.md)
+Navigate to [**Day 5**](Day%205/)
 
 -   Adding images to the webpage.
 -   Styling Images.
