@@ -11,7 +11,7 @@
 
 # **Day 1**
 
-Navigate to [**Day 1**]("Day%201/)
+Navigate to [**Day 1**](Day%201/)
 
 -   What is Web Development?
 -   How does the Web works
