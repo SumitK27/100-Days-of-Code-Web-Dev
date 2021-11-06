@@ -8,6 +8,7 @@
 3. [**Day 3**](#day-3)
 4. [**Day 4**](#day-4)
 5. [**Day 5**](#day-5)
+6. [**Day 6**](#day-6)
 
 # **Day 1**
 
@@ -64,3 +65,15 @@ Navigate to [**Day 5**](Day%205/)
 -   Linking different pages.
 -   Sharing the CSS files across multiple pages.
 -   Organizing your project.
+
+# **Day 6**
+
+Navigate to [**Day 6**](Day%206)
+
+-   Using Lists.
+-   Types of Lists.
+-   Comments.
+-   Ordering of CSS Rules.
+    -   Inheritance.
+    -   Cascading.
+    -   Specificity.
