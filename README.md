@@ -9,6 +9,7 @@
 4. [**Day 4**](#day-4)
 5. [**Day 5**](#day-5)
 6. [**Day 6**](#day-6)
+7. [**Day 7**](#day-7)
 
 # **Day 1**
 
@@ -77,3 +78,27 @@ Navigate to [**Day 6**](Day%206)
     -   Inheritance.
     -   Cascading.
     -   Specificity.
+
+# **Day 7**
+
+Navigate to [**Day 7**](Day%207)
+
+-   CSS Box Model
+    -   Content
+    -   Padding
+    -   Border
+    -   Margin
+-   Adding Structure to a Web Page
+    -   Header
+    -   Main
+    -   Footer
+-   Selectors
+    -   Type Selector
+    -   ID Selector
+    -   Class Selector
+    -   Group Selector
+-   Combinators
+    -   Descendant Combinator
+    -   Child Combinator
+-   Block Elements
+-   Inline Elements
