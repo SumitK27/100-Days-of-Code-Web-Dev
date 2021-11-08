@@ -10,6 +10,7 @@
 5. [**Day 5**](#day-5)
 6. [**Day 6**](#day-6)
 7. [**Day 7**](#day-7)
+8. [**Day 8**](#day-8)
 
 # **Day 1**
 
@@ -102,3 +103,20 @@ Navigate to [**Day 7**](Day%207)
     -   Child Combinator
 -   Block Elements
 -   Inline Elements
+
+# **Day 8**
+
+Navigate to [**Day 8**](Day%208)
+
+-   Limitations with Inline Elements
+-   Display Property
+    -   Block
+        -   Margin Collapsing
+    -   Inline-Block
+-   Box Shadow Property
+-   Non Semantic Elements
+    -   Span
+    -   Div
+-   Inline Element Types
+    -   Replaced Inline Elements
+    -   Non Replace Inline Elements
