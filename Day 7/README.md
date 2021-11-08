@@ -1,4 +1,4 @@
-# **Day 6** <!-- omit in toc -->
+# **Day 7** <!-- omit in toc -->
 
 1. [**CSS Box Model**](#css-box-model)
    1. [**Content**](#content)
