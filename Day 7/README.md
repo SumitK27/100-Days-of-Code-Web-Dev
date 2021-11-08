@@ -304,7 +304,6 @@ h2 > p {
 ## **Inline Elements**
 
 -   Elements can be aligned next to each other.
--   Margin Top and Margin Bottom doesn't apply for inline elements.
 -   Some Inline Elements:
     -   Anchors
     -   Images
