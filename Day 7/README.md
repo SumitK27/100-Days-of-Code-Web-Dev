@@ -70,7 +70,7 @@ p {
 
 #### **Single value**
 
--   This will add padding evenly to each side (top, left, bottom, right) of the content.
+-   This will add padding evenly to each side (top, right, bottom, left) of the content.
 
 ```css
 p {
@@ -93,9 +93,9 @@ p {
 ```css
 p {
     padding-top: 1px;
-    padding-left: 2px;
+    padding-right: 2px;
     padding-bottom: 3px;
-    padding-right: 4px;
+    padding-left: 4px;
 }
 ```
 
@@ -120,7 +120,7 @@ p {
 
 #### **Single value**
 
--   This will add margin evenly to each side (top, left, bottom, right) of the content.
+-   This will add margin evenly to each side (top, right, bottom, left) of the content.
 
 ```css
 p {
@@ -143,9 +143,9 @@ p {
 ```css
 p {
     margin-top: 1px;
-    margin-left: 2px;
+    margin-right: 2px;
     margin-bottom: 3px;
-    margin-right: 4px;
+    margin-left: 4px;
 }
 ```
 
@@ -304,6 +304,7 @@ h2 > p {
 ## **Inline Elements**
 
 -   Elements can be aligned next to each other.
+-   Margin Top and Margin Bottom doesn't apply for inline elements.
 -   Some Inline Elements:
     -   Anchors
     -   Images
