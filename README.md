@@ -126,4 +126,4 @@ Navigate to [**Day 8**](Day%208)
 
 Navigate to [**Day 9**](Day%209)
 
--   Refer an image an create an identical webpage.
+-   Refer to an image an create an identical webpage.
