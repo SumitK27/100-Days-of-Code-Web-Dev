@@ -11,6 +11,7 @@
 6. [**Day 6**](#day-6)
 7. [**Day 7**](#day-7)
 8. [**Day 8**](#day-8)
+9. [**Day 9**](#day-9)
 
 # **Day 1**
 
@@ -120,3 +121,9 @@ Navigate to [**Day 8**](Day%208)
 -   Inline Element Types
     -   Replaced Inline Elements
     -   Non Replace Inline Elements
+
+# **Day 9**
+
+Navigate to [**Day 9**](Day%209)
+
+-   Refer an image an create an identical webpage.

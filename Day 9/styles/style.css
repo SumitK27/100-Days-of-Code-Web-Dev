@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(243, 233, 255);
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    margin: 50px 0;
+}
+
+h1 {
+    font-size: 52px;
+    font-weight: 900;
+    color: rgb(91, 52, 207);
+}
+
+img {
+    margin: 20px;
+    width: 300px;
+}
+
+.card {
+    padding: 20px 40px;
+    margin: 30px auto;
+    color: rgb(255, 255, 255);
+    background-color: rgb(119, 74, 216);
+    border-radius: 8px;
+    text-align: left;
+    width: 800px;
+}
+
+.card > h2 {
+    font-size: 24px;
+}
+
+.card > p {
+    font-size: 18px;
+}
+
+.card ol {
+    list-style: none;
+    margin-left: -40px;
+}
+
+.card li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.point {
+    color: rgb(239, 216, 202);
+    border-left: 5px solid rgb(249, 202, 36);
+    padding-left: 10px;
+    margin-left: -6px;
+}
+
+.no-point {
+    padding-left: 13px;
+}
+
+.highlight {
+    padding: 2px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(254, 238, 175);
+}
+
+a {
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(249, 202, 36);
+    border-radius: 8px;
+    font-weight: bold;
+}
