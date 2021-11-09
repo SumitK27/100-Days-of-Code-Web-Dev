@@ -52,7 +52,7 @@ img {
 }
 
 .no-point {
-    padding-left: 13px;
+    padding-left: 16px;
 }
 
 .highlight {
@@ -70,4 +70,8 @@ a {
     background-color: rgb(249, 202, 36);
     border-radius: 8px;
     font-weight: bold;
+}
+
+a:hover {
+    background-color: rgb(230, 202, 36);
 }
