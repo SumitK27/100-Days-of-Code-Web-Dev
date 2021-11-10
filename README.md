@@ -12,6 +12,7 @@
 7. [**Day 7**](#day-7)
 8. [**Day 8**](#day-8)
 9. [**Day 9**](#day-9)
+10. [**Day 10**](#day-10)
 
 # **Day 1**
 
@@ -126,4 +127,16 @@ Navigate to [**Day 8**](Day%208)
 
 Navigate to [**Day 9**](Day%209)
 
--   Refer to an image an create an identical webpage.
+-   Refer to an image and create an identical webpage.
+
+# **Day 10**
+
+Navigate to [**Day 10**](Day%2010)
+
+-   Refer to an image and create an identical webpage.
+-   Target Attribute of the Anchor tag
+-   Making Text Bold
+    -   Using CSS
+    -   B tag
+    -   EM tag
+    -   Strong tag
