@@ -13,6 +13,7 @@
 8. [**Day 8**](#day-8)
 9. [**Day 9**](#day-9)
 10. [**Day 10**](#day-10)
+11. [**Day 11**](#day-11)
 
 # **Day 1**
 
@@ -140,3 +141,17 @@ Navigate to [**Day 10**](Day%2010)
     -   B tag
     -   EM tag
     -   Strong tag
+
+# **Day 11**
+
+Navigate to [**Day 11**](Day%2011)
+
+-   Deploying
+-   Hosting
+    -   Hosting a Static Site
+-   Favicon
+    -   Generating a Favicon
+    -   Adding a Favicon
+-   Paths
+    -   Relative Paths
+    -   Absolute Paths
