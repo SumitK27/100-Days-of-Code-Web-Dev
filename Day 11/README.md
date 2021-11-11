@@ -9,6 +9,12 @@
 4. [**Paths**](#paths)
    1. [**Relative Paths**](#relative-paths)
    2. [**Absolute Paths**](#absolute-paths)
+5. [**What is Version Management/Control?**](#what-is-version-managementcontrol)
+   1. [**Git**](#git)
+   2. [**GitHub**](#github)
+6. [**Interaction with Computers**](#interaction-with-computers)
+   1. [**GUI**](#gui)
+   2. [**CLI**](#cli)
 
 ---
 
@@ -112,3 +118,40 @@
 ...
 <a href="/pages/page1.html"></a>
 ```
+
+---
+
+## **What is Version Management/Control?**
+
+-   Efficient Control & tracking of code changes over time.
+-   Easily save different versions of code without using copies.
+
+### **Git**
+
+-   Local tool installed on your computer.
+-   Version control for projects.
+-   Organized in repositories.
+
+### **GitHub**
+
+-   Separate tool that is a cloud hosting provider for Git repositories.
+-   Collaboration & contribution to projects.
+-   World's largest development platform.
+
+---
+
+## **Interaction with Computers**
+
+-   There are two ways to interact with the computer.
+
+### **GUI**
+
+-   Stands for _Graphical User Interface_.
+-   It is a visual representation.
+-   Developed by the developers of the system (operating system) to make it easier for users to communicate with a system.
+
+### **CLI**
+
+-   Stands for _Command Line Interface_.
+-   It is a command based representation.
+-   Fastest and most common way to efficiently work with Git & GitHub.

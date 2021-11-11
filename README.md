@@ -155,3 +155,9 @@ Navigate to [**Day 11**](Day%2011)
 -   Paths
     -   Relative Paths
     -   Absolute Paths
+-   What is Version Management/Control?
+    -   Git
+    -   GitHub
+-   Interaction with Computers
+    -   GUI
+    -   CLI
