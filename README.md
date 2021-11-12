@@ -14,6 +14,7 @@
 9. [**Day 9**](#day-9)
 10. [**Day 10**](#day-10)
 11. [**Day 11**](#day-11)
+12. [Day 12](#day-12)
 
 # **Day 1**
 
@@ -161,3 +162,46 @@ Navigate to [**Day 11**](Day%2011)
 -   Interaction with Computers
     -   GUI
     -   CLI
+
+# Day 12
+
+Navigate to [**Day 12**](Day%2012)
+
+-   Interacting with CLI (Command Line Interface)
+    -   MacOS
+        -   Show the current directory path
+        -   Show All files in a directory
+        -   Changing the directory
+        -   Clearing your Terminal output
+        -   Creating a Folder/Directory
+        -   Creating a File
+        -   Deleting Files and Folders
+    -   Windows
+        -   Show All files in a directory
+        -   Changing the directory
+        -   Clearing your Terminal output
+        -   Creating a Folder/Directory
+        -   Creating a File
+        -   Read a File
+        -   Deleting Files and Folders
+-   Installing Git
+    -   MacOS
+    -   Windows
+-   Git Basics
+    -   Repository
+        -   Initializing Git
+        -   Status
+        -   Staging
+            -   Individual files
+            -   Multiple files
+        -   Commit
+            -   First Commit
+            -   Commit after modification & creation of file
+        -   Git Config
+            -   Edit Git Configs for a System
+            -   Getting User Name
+            -   Updating User Name
+            -   Getting Email
+            -   Updating Email
+        -   Git Logs
+    -   Branch
