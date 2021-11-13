@@ -15,6 +15,7 @@
 10. [**Day 10**](#day-10)
 11. [**Day 11**](#day-11)
 12. [Day 12](#day-12)
+13. [**Day 13**](#day-13)
 
 # **Day 1**
 
@@ -205,3 +206,29 @@ Navigate to [**Day 12**](Day%2012)
             -   Updating Email
         -   Git Logs
     -   Branch
+
+# **Day 13**
+
+Navigate to [**Day 13**](Day%2013)
+
+-   Branch
+    -   Get the current branch
+    -   Get all the branches
+    -   Rename a branch
+    -   Creating a branch
+    -   Merging branches
+        -   Merge Conflict
+    -   Deleting files
+        -   Manual deletion
+        -   Delete by Git
+    -   Deleting Branches
+    -   Deleting Commits
+    -   Revert Staged Changes
+    -   Revert Un-staged Changes
+-   Why to use GitHub?
+    -   As a Single User
+    -   As a Team
+-   Creating a GitHub Account
+-   Connecting Git with GitHub
+    -   Create a New Remote Repository
+    -   Adding your Local Repository to the Remote Repository.
