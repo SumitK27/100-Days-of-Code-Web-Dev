@@ -14,8 +14,9 @@
 9. [**Day 9**](#day-9)
 10. [**Day 10**](#day-10)
 11. [**Day 11**](#day-11)
-12. [Day 12](#day-12)
+12. [**Day 12**](#day-12)
 13. [**Day 13**](#day-13)
+14. [**Day 14**](#day-14)
 
 # **Day 1**
 
@@ -164,7 +165,7 @@ Navigate to [**Day 11**](Day%2011)
     -   GUI
     -   CLI
 
-# Day 12
+# **Day 12**
 
 Navigate to [**Day 12**](Day%2012)
 
@@ -232,3 +233,27 @@ Navigate to [**Day 13**](Day%2013)
 -   Connecting Git with GitHub
     -   Create a New Remote Repository
     -   Adding your Local Repository to the Remote Repository.
+
+# **Day 14**
+
+Navigate to [**Day 14**](Day%2014)
+
+-   Local Repository => Remote Repository
+    -   Creating Personal Access Token
+    -   Using the token
+    -   Push Local Repo to GitHub
+    -   Erasing the GitHub Credentials
+    -   Pre-requisite for Cloning Repository
+-   Remote Repository => Local Repository
+    -   Cloning a remote repository
+    -   Modifying Repository
+-   Collaboration
+    -   Create a Private Repository
+    -   Adding a Collaborator
+    -   Collaborator Side
+    -   Fetching Updated Repository
+-   Contribution
+    -   Pre-requisite
+    -   Contributing to Someone's Project
+    -   Owner's side
+-   Summary
