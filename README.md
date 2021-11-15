@@ -17,6 +17,7 @@
 12. [**Day 12**](#day-12)
 13. [**Day 13**](#day-13)
 14. [**Day 14**](#day-14)
+15. [**Day 15**](#day-15)
 
 # **Day 1**
 
@@ -257,3 +258,21 @@ Navigate to [**Day 14**](Day%2014)
     -   Contributing to Someone's Project
     -   Owner's side
 -   Summary
+
+# **Day 15**
+
+Navigate to [**Day 14**](Day%2014)
+
+-   Nav
+-   Text Properties
+    -   Text Align
+    -   Text Decoration
+    -   Text Transform
+    -   Text Shadow
+-   CSS Flexbox
+    -   Display
+    -   Flex Direction
+    -   Flex Wrap
+    -   Flex Flow
+    -   Align Items
+    -   Justify Content
