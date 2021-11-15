@@ -261,7 +261,7 @@ Navigate to [**Day 14**](Day%2014)
 
 # **Day 15**
 
-Navigate to [**Day 14**](Day%2014)
+Navigate to [**Day 15**](Day%2015)
 
 -   Nav
 -   Text Properties
