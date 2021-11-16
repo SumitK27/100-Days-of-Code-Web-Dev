@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Positioning</title>
+        <style>
+            html {
+                margin: 25px;
+            }
+            div {
+                width: 600px;
+                height: 300px;
+                border: 5px solid black;
+            }
+            #container {
+                background-color: blueviolet;
+                padding: 25px;
+                height: 1300px;
+                position: relative;
+            }
+            #container > div {
+                width: 150px;
+                height: 150px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-size: 20px;
+            }
+            #one {
+                background-color: rgb(255, 220, 221);
+                position: static;
+            }
+            #two {
+                background-color: rgb(255, 200, 221);
+                position: relative;
+                top: 20px;
+                right: 40px;
+            }
+            #three {
+                background-color: rgb(255, 180, 221);
+                position: absolute;
+                top: 20px;
+                right: 40px;
+            }
+            #four {
+                background-color: rgb(255, 160, 221);
+                width: 150px;
+                height: 150px;
+                position: fixed;
+                top: 0px;
+                right: 0px;
+            }
+            #five {
+                background-color: rgb(255, 140, 221);
+            }
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <div id="one">Static</div>
+            <div id="two">Absolute</div>
+            <div id="three">Relative</div>
+            <div id="four">Fixed</div>
+        </div>
+    </body>
+</html>

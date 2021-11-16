@@ -18,6 +18,7 @@
 13. [**Day 13**](#day-13)
 14. [**Day 14**](#day-14)
 15. [**Day 15**](#day-15)
+16. [**Day 16**](#day-16)
 
 # **Day 1**
 
@@ -276,3 +277,17 @@ Navigate to [**Day 15**](Day%2015)
     -   Flex Flow
     -   Align Items
     -   Justify Content
+
+# **Day 16**
+
+Navigate to [**Day 16**](Day%2016)
+
+-   Background Properties
+    -   Background Image
+    -   Background Position
+    -   Background Size
+-   Document Positioning
+    -   Static
+    -   Relative
+    -   Absolute
+    -   Fixed
