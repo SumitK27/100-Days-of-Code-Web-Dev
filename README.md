@@ -19,6 +19,7 @@
 14. [**Day 14**](#day-14)
 15. [**Day 15**](#day-15)
 16. [**Day 16**](#day-16)
+17. [**Day 17**](#day-17)
 
 # **Day 1**
 
@@ -291,3 +292,17 @@ Navigate to [**Day 16**](Day%2016)
     -   Relative
     -   Absolute
     -   Fixed
+
+# **Day 17**
+
+Navigate to [**Day 17**](Day%2017)
+
+-   CSS Unit
+    -   Percentage
+-   Box Sizing
+    -   Content Box
+    -   Border Box
+-   Object Fit
+    -   Fill
+    -   Contain
+    -   Cover
