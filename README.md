@@ -20,6 +20,7 @@
 15. [**Day 15**](#day-15)
 16. [**Day 16**](#day-16)
 17. [**Day 17**](#day-17)
+18. [**Day 18**](#day-18)
 
 # **Day 1**
 
@@ -306,3 +307,10 @@ Navigate to [**Day 17**](Day%2017)
     -   Fill
     -   Contain
     -   Cover
+
+# **Day 18**
+
+Navigate to [**Day 18**](Day%2018)
+
+-   CSS Function
+    -   Linear Gradient
