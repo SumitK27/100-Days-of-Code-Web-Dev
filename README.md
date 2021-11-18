@@ -21,6 +21,7 @@
 16. [**Day 16**](#day-16)
 17. [**Day 17**](#day-17)
 18. [**Day 18**](#day-18)
+19. [**Day 19**](#day-19)
 
 # **Day 1**
 
@@ -314,3 +315,21 @@ Navigate to [**Day 18**](Day%2018)
 
 -   CSS Function
     -   Linear Gradient
+
+# **Day 19**
+
+Navigate to [**Day 19**](Day%2019)
+
+-   Overflow
+    -   Visible
+    -   Hidden
+-   CSS Grid
+    -   Display Grid
+    -   Grid Template Columns
+        -   Using Pixels
+        -   Using Fraction
+    -   Gap
+    -   Grid Column
+-   CSS Pseudo Selector
+    -   First of Type
+    -   Nth Type
