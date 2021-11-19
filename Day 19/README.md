@@ -99,6 +99,13 @@ li:nth-of-type(3) {
 -   This will start the element from point 1 and end at point 3.
 -   Alternatively, you can use `span` instead of `3` (number of available columns) to do the same without defining the value.
 
+```css
+li:nth-of-type(3) {
+    grid-column: 1 / span 2;
+    /* This will occupy 2 columns horizontally*/
+}
+```
+
 ## **CSS Pseudo Selector**
 
 ### **First of Type**
