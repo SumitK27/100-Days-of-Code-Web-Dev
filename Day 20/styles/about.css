@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(90deg, rgb(68, 144, 190), rgb(251, 254, 241));
+}
+
+header {
+    position: static;
+}
+
+#page-logo a {
+    color: rgb(251, 254, 241);
+}
+
+header nav a {
+    color: rgb(68, 144, 190);
+}
+
+header nav a:hover {
+    background-color: rgb(68, 144, 190);
+    color: rgb(251, 254, 241);
+}
+
+main {
+    margin: 0 auto;
+    padding: 100px 0;
+}
+
+main div {
+    height: 100%;
+    text-align: center;
+}
+
+main div h2 {
+    font-size: 50px;
+}
+
+main div p {
+    font-size: 24px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
