@@ -22,6 +22,8 @@
 17. [**Day 17**](#day-17)
 18. [**Day 18**](#day-18)
 19. [**Day 19**](#day-19)
+20. [**Day 20**](#day-20)
+21. [**Day 21**](#day-21)
 
 # **Day 1**
 
@@ -333,3 +335,25 @@ Navigate to [**Day 19**](Day%2019)
 -   CSS Pseudo Selector
     -   First of Type
     -   Nth Type
+
+# **Day 20**
+
+Navigate to [**Day 20**](Day%2020)
+
+-   Working with Unicode
+    -   Unicode
+    -   UTF-8
+    -   Adding a Character
+-   Responsive Design
+
+# **Day 21**
+
+Navigate to [**Day 21**](Day%2021)
+
+-   Responsive Design
+-   CSS Units
+    -   Pixels (px)
+    -   Percentages (%)
+    -   Emphemeral Unit (em)
+    -   Root Emphemeral Unit (rem)
+    -   Difference Between Units
