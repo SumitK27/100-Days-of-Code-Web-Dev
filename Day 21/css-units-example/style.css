@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background: linear-gradient(45deg, rgb(158, 158, 255), rgb(100, 100, 255));
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#container {
+    width: 400px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#px {
+    font-size: 16px;
+}
+
+#pc {
+    font-size: 100%;
+}
+
+#em {
+    font-size: 1em;
+}
+
+#rem {
+    font-size: 1rem;
+}
