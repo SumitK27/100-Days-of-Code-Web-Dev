@@ -24,6 +24,7 @@
 19. [**Day 19**](#day-19)
 20. [**Day 20**](#day-20)
 21. [**Day 21**](#day-21)
+22. [**Day 22**](#day-22)
 
 # **Day 1**
 
@@ -357,3 +358,19 @@ Navigate to [**Day 21**](Day%2021)
     -   Emphemeral Unit (em)
     -   Root Emphemeral Unit (rem)
     -   Difference Between Units
+
+# **Day 22**
+
+Navigate to [**Day 22**](Day%2022)
+
+-   Percentage vs EM vs REM
+    -   Percentage
+    -   EM
+    -   REM
+-   Desktop First Design vs Mobile First Design
+    -   Desktop First Design
+    -   Mobile First Design
+-   Media Query
+    -   Common Breakpoints
+        -   Portrait
+        -   Landscape
