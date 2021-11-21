@@ -25,6 +25,7 @@
 20. [**Day 20**](#day-20)
 21. [**Day 21**](#day-21)
 22. [**Day 22**](#day-22)
+23. [**Day 23**](#day-23)
 
 # **Day 1**
 
@@ -374,3 +375,13 @@ Navigate to [**Day 22**](Day%2022)
     -   Common Breakpoints
         -   Portrait
         -   Landscape
+
+# **Day 23**
+
+Navigate to [**Day 23**](Day%2023)
+
+-   Media Queries
+-   Side Drawer
+    -   Structure
+    -   Internal Links
+    -   Target Selector
