@@ -26,6 +26,7 @@
 21. [**Day 21**](#day-21)
 22. [**Day 22**](#day-22)
 23. [**Day 23**](#day-23)
+24. [**Day 24**](#day-24)
 
 # **Day 1**
 
@@ -385,3 +386,21 @@ Navigate to [**Day 23**](Day%2023)
     -   Structure
     -   Internal Links
     -   Target Selector
+
+# **Day 24**
+
+Navigate to [**Day 24**](Day%2024)
+
+-   Things to Remember
+    -   Step-by-step Features
+    -   Think the Core Information
+    -   Less is More
+-   Sizing & Spacing
+-   Right Font
+    -   Font Family
+    -   Font Size
+    -   Font Weight
+-   Colors
+    -   Grey
+    -   Primary Color
+    -   Accent
