@@ -27,6 +27,7 @@
 22. [**Day 22**](#day-22)
 23. [**Day 23**](#day-23)
 24. [**Day 24**](#day-24)
+25. [**Day 25**](#day-25)
 
 # **Day 1**
 
@@ -404,3 +405,16 @@ Navigate to [**Day 24**](Day%2024)
     -   Grey
     -   Primary Color
     -   Accent
+
+# **Day 25**
+
+Navigate to [**Day 25**](Day%2025)
+
+-   CSS Variables / Custom Properties
+-   Root vs Html vs Selectors
+    -   html
+    -   :root
+    -   \*
+-   CSS Transformation
+-   CSS Transition
+-   Using SVGs
