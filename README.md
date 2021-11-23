@@ -28,6 +28,7 @@
 23. [**Day 23**](#day-23)
 24. [**Day 24**](#day-24)
 25. [**Day 25**](#day-25)
+26. [**Day 26**](#day-26)
 
 # **Day 1**
 
@@ -418,3 +419,20 @@ Navigate to [**Day 25**](Day%2025)
 -   CSS Transformation
 -   CSS Transition
 -   Using SVGs
+
+# **Day 26**
+
+Navigate to [**Day 26**](Day%2026)
+
+-   Forms
+    -   What & Why?
+    -   Examples of Forms
+-   HTML Elements
+    -   Input
+    -   Textarea
+    -   Select
+    -   Button
+    -   Using Forms
+-   Types of Requests
+    -   GET
+    -   POST

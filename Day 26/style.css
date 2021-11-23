@@ -1,0 +1,16 @@
+body {
+    margin: 8rem;
+    font-family: "Courier New", Courier, monospace;
+    color: white;
+    background-color: rgb(31, 30, 30);
+}
+
+input {
+    width: 20rem;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+button {
+    display: block;
+}
