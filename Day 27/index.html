@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Forms</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="./style.css" />
+    </head>
+    <body>
+        <form action="/" method="GET">
+            <label for="username">Your name</label>
+            <input type="text" name="user-name" id="username" />
+            <label for="useremail">Your email address</label>
+            <input type="email" name="user-email" id="useremail" />
+            <label for="userpassword">Your password</label>
+            <input type="password" name="user-password" id="userpassword" />
+            <label for="userage">Your age</label>
+            <input type="number" step="1" name="user-age" id="userage" />
+            <label for="userdob">Your date</label>
+            <input type="date" name="user-dob" id="userdob" />
+            <hr />
+            <h2>How should we verify your account?</h2>
+            <div class="form-control-inline">
+                <input
+                    type="radio"
+                    name="verify"
+                    id="verify-text"
+                    value="verify-text"
+                />
+                <label for="verify-text">Via text message (SMS)</label>
+            </div>
+
+            <div class="form-control-inline">
+                <input
+                    type="radio"
+                    name="verify"
+                    id="verify-call"
+                    value="verify-call"
+                />
+                <label for="verify-call">Via a phone call</label>
+            </div>
+            <div class="form-control-inline">
+                <input
+                    type="radio"
+                    name="verify"
+                    id="verify-email"
+                    value="verify-email"
+                />
+                <label for="verify-email">Via an email</label>
+            </div>
+            <button>Submit</button>
+        </form>
+    </body>
+</html>

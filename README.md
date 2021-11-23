@@ -29,6 +29,7 @@
 24. [**Day 24**](#day-24)
 25. [**Day 25**](#day-25)
 26. [**Day 26**](#day-26)
+27. [**Day 27**](#day-27)
 
 # **Day 1**
 
@@ -436,3 +437,20 @@ Navigate to [**Day 26**](Day%2026)
 -   Types of Requests
     -   GET
     -   POST
+
+# **Day 27**
+
+Navigate to [**Day 27**](Day%2027)
+
+-   Styling Inputs
+-   Label
+-   Types of Inputs
+    -   Text
+    -   Email
+    -   Number
+    -   Password
+    -   Date
+    -   Radio
+    -   Checkbox
+    -   File
+    -   Other Types of Inputs
