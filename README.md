@@ -460,24 +460,24 @@ Navigate to [**Day 27**](Day%2027)
 
 Navigate to [**Day 28**](Day%2028)
 
-1. More on Inputs
-    1. Checkbox
-        1. Single Select
-        2. Multi-select
-    2. Text Area
-    3. Dropdown
-2. Adding Semantics to the Form
-3. Buttons
-4. Validation Attributes
-    1. Excluding Form Validations
-    2. Required Field
-    3. Length
-        1. Min Length
-        2. Max Length
-    4. Value
-        1. Min
-        2. Max
-5. Other Attributes
-    1. Placeholder
-    2. Rows
-    3. Resizing Textarea
+-   More on Inputs
+    -   Checkbox
+        -   Single Select
+        -   Multi-select
+    -   Text Area
+    -   Dropdown
+-   Adding Semantics to the Form
+-   Buttons
+-   Validation Attributes
+    -   Excluding Form Validations
+    -   Required Field
+    -   Length
+        -   Min Length
+        -   Max Length
+    -   Value
+        -   Min
+        -   Max
+-   Other Attributes
+    -   Placeholder
+    -   Rows
+    -   Resizing Textarea
