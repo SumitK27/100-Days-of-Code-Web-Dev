@@ -1,0 +1,95 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(236, 252, 253);
+}
+
+h1 {
+    text-align: center;
+    margin: 2rem;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    width: 40rem;
+    padding: 1rem;
+    margin: auto;
+    border-radius: 6px;
+    background-color: rgb(246, 250, 255);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+section {
+    margin-bottom: 1rem;
+}
+
+label {
+    display: block;
+    margin: 0.5rem 0;
+    color: rgb(66, 76, 97);
+}
+
+input,
+textarea,
+select {
+    font: inherit;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: 1px solid rgb(152, 159, 184);
+}
+
+textarea {
+    resize: none;
+}
+
+input:focus,
+textarea:focus {
+    background-color: rgb(217, 227, 247);
+}
+
+button {
+    font: inherit;
+    margin-left: 0.25rem;
+    padding: 0.5rem 1.5rem;
+    color: white;
+    background-color: rgb(51, 67, 100);
+    border-radius: 4px;
+    border: 1px solid rgb(51, 67, 100);
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(69, 89, 129);
+    border-color: rgb(69, 89, 129);
+}
+
+#buttons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#clear {
+    background-color: rgb(255, 255, 255);
+    color: rgb(51, 67, 100);
+}
+
+#clear:hover {
+    background-color: rgb(208, 215, 230);
+}
+
+.form-control-inline {
+    display: flex;
+    align-items: center;
+}
+
+.form-control-inline input {
+    width: auto;
+    margin: 0.5rem;
+}

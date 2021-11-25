@@ -31,6 +31,7 @@
 26. [**Day 26**](#day-26)
 27. [**Day 27**](#day-27)
 28. [**Day 28**](#day-28)
+29. [**Day 29**](#day-29)
 
 # **Day 1**
 
@@ -481,3 +482,18 @@ Navigate to [**Day 28**](Day%2028)
     -   Placeholder
     -   Rows
     -   Resizing Textarea
+
+# **Day 29**
+
+Navigate to [**Day 29**](Day%2029)
+
+-   HTML Form Challenge with Validation
+-   What is JavaScript
+-   Why JavaScript
+-   JavaScript Applications & Use-Cases
+-   Core Features
+    -   Values
+        -   String (Text)
+        -   Numbers
+        -   Other types
+    -   Variables

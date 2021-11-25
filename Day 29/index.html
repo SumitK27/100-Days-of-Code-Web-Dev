@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Contact Us</title>
+        <link rel="stylesheet" href="./style.css" />
+    </head>
+    <body>
+        <header>
+            <h1>Contact Us</h1>
+        </header>
+
+        <main>
+            <form action="./" method="POST">
+                <section>
+                    <h2>How can we help you?</h2>
+
+                    <ul>
+                        <li>
+                            <label for="name">Your Name</label>
+                            <input type="text" name="name" required />
+                        </li>
+                        <li>
+                            <label for="email">Your E-mail Address</label>
+                            <input type="email" name="email" required />
+                        </li>
+                        <li>
+                            <label for="phone">Your Phone Number</label>
+                            <input
+                                type="tel"
+                                name="phone"
+                                minlength="10"
+                                maxlength="12"
+                                required
+                            />
+                        </li>
+                        <li>
+                            <label for="message">Your Message</label>
+                            <textarea
+                                name="message"
+                                id="message"
+                                cols="30"
+                                rows="7"
+                                required
+                            ></textarea>
+                        </li>
+                        <li>
+                            <label for="name">How did you find us?</label>
+                            <select name="find-us" id="find-us" required>
+                                <option value="web-search">Web Search</option>
+                                <option value="word-of-mouth">
+                                    Word of Mouth
+                                </option>
+                                <option value="other">Other</option>
+                            </select>
+                        </li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>How should we reply?</h2>
+
+                    <ul>
+                        <li class="form-control-inline">
+                            <input
+                                type="radio"
+                                name="contact"
+                                id="contact-call"
+                                required
+                            />
+                            <label for="contact-call">Call me</label>
+                        </li>
+
+                        <li class="form-control-inline">
+                            <input
+                                type="radio"
+                                name="contact"
+                                id="contact-email"
+                                required
+                            />
+                            <label for="contact-email">Send me an email</label>
+                        </li>
+
+                        <li class="form-control-inline">
+                            <input
+                                type="radio"
+                                name="contact"
+                                id="contact-none"
+                                required
+                            />
+                            <label for="contact-none">Don't reply</label>
+                        </li>
+                    </ul>
+                </section>
+
+                <section>
+                    <div class="form-control-inline">
+                        <input
+                            type="checkbox"
+                            name="terms"
+                            id="terms"
+                            required
+                        />
+                        <label for="terms">Accept terms</label>
+                    </div>
+                </section>
+
+                <section>
+                    <div id="buttons">
+                        <button type="reset" id="clear">Clear</button>
+                        <button>Submit</button>
+                    </div>
+                </section>
+            </form>
+        </main>
+    </body>
+</html>
