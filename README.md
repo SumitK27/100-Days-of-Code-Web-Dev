@@ -32,6 +32,7 @@
 27. [**Day 27**](#day-27)
 28. [**Day 28**](#day-28)
 29. [**Day 29**](#day-29)
+30. [**Day 30**](#day-30)
 
 # **Day 1**
 
@@ -497,3 +498,20 @@ Navigate to [**Day 29**](Day%2029)
         -   Numbers
         -   Other types
     -   Variables
+
+# **Day 30**
+
+Navigate to [**Day 30**](Day%2030)
+
+-   Adding JavaScript to HTML
+    -   Inside Head
+    -   Inside Body
+    -   External JavaScript File
+-   Values
+    -   Strings
+    -   Numbers
+    -   Arrays
+    -   Objects
+-   Variables
+    -   let
+-   Syntax & Conventions
