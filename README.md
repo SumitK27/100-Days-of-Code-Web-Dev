@@ -33,6 +33,7 @@
 28. [**Day 28**](#day-28)
 29. [**Day 29**](#day-29)
 30. [**Day 30**](#day-30)
+31. [**Day 31**](#day-31)
 
 # **Day 1**
 
@@ -515,3 +516,18 @@ Navigate to [**Day 30**](Day%2030)
 -   Variables
     -   let
 -   Syntax & Conventions
+
+# **Day 31**
+
+Navigate to [**Day 31**](Day%2031)
+
+-   Operations
+    -   Addition
+    -   Subtraction
+    -   Multiplication
+    -   Division
+-   Function
+    -   Scope
+    -   Return
+    -   Parameters
+-   Exercise
