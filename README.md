@@ -34,6 +34,7 @@
 29. [**Day 29**](#day-29)
 30. [**Day 30**](#day-30)
 31. [**Day 31**](#day-31)
+32. [**Day 32**](#day-32)
 
 # **Day 1**
 
@@ -531,3 +532,30 @@ Navigate to [**Day 31**](Day%2031)
     -   Return
     -   Parameters
 -   Exercise
+
+# **Day 32**
+
+Navigate to [**Day 32**](Day%2032)
+
+-   Console Log
+-   Methods
+-   Math Operations
+    -   Addition
+    -   Subtracting
+    -   Multiplication
+    -   Division
+    -   Modulus
+    -   Rules
+-   Shorthand Operations
+    -   Increment
+    -   Decrement
+    -   Addition
+    -   Subtraction
+    -   Multiplication
+    -   Division
+-   String Operations
+    -   Concatenation
+    -   Length
+    -   Upper Case
+    -   Lower Case
+    -   Character At
