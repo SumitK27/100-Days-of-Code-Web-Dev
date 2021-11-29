@@ -35,6 +35,7 @@
 30. [**Day 30**](#day-30)
 31. [**Day 31**](#day-31)
 32. [**Day 32**](#day-32)
+33. [**Day 33**](#day-33)
 
 # **Day 1**
 
@@ -559,3 +560,19 @@ Navigate to [**Day 32**](Day%2032)
     -   Upper Case
     -   Lower Case
     -   Character At
+
+# **Day 33**
+
+Navigate to [**Day 33**](Day%2033)
+
+-   Array Operations
+-   Global Objects
+    -   Window
+    -   Document
+-   DOM
+-   Traversing Document Tree
+    -   HTML Document
+    -   DOM Tree Structure
+    -   JavaScript
+        -   Drilling into Elements
+        -   Query Elements
