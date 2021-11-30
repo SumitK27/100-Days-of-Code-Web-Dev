@@ -36,6 +36,7 @@
 31. [**Day 31**](#day-31)
 32. [**Day 32**](#day-32)
 33. [**Day 33**](#day-33)
+34. [**Day 34**](#day-34)
 
 # **Day 1**
 
@@ -576,3 +577,22 @@ Navigate to [**Day 33**](Day%2033)
     -   JavaScript
         -   Drilling into Elements
         -   Query Elements
+
+# **Day 34**
+
+Navigate to [**Day 34**](Day%2034)
+
+-   Selecting first child element
+    -   Index
+    -   firstChild
+    -   firstElementChild
+    -   Child Node
+-   Ways of Selecting Elements
+    -   getElementById
+    -   querySelector
+    -   querySelectorAll
+-   Exercise
+-   Adding an Element
+    -   Create a New Element
+    -   Getting a parent element
+    -   Appending the new element to the parent
