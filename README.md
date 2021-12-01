@@ -37,6 +37,7 @@
 32. [**Day 32**](#day-32)
 33. [**Day 33**](#day-33)
 34. [**Day 34**](#day-34)
+35. [**Day 35**](#day-35)
 
 # **Day 1**
 
@@ -596,3 +597,16 @@ Navigate to [**Day 34**](Day%2034)
     -   Create a New Element
     -   Getting a parent element
     -   Appending the new element to the parent
+
+# **Day 35**
+
+Navigate to [**Day 35**](Day%2035)
+
+-   Remove an Element
+-   Move an Element
+-   InnerHTML
+-   Events
+    -   Click Event
+    -   Input Event
+    -   Other Events
+    -   Event Object
