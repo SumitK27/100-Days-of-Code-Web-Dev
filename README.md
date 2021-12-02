@@ -38,6 +38,7 @@
 33. [**Day 33**](#day-33)
 34. [**Day 34**](#day-34)
 35. [**Day 35**](#day-35)
+36. [**Day 36**](#day-36)
 
 # **Day 1**
 
@@ -610,3 +611,17 @@ Navigate to [**Day 35**](Day%2035)
     -   Input Event
     -   Other Events
     -   Event Object
+
+# **Day 36**
+
+Navigate to [**Day 36**](Day%2036)
+
+-   Variables
+-   Constants
+-   Styling with JavaScript
+    -   Text Align
+    -   Font Size
+    -   Color
+    -   Background Color
+    -   Class Name
+    -   Class List
