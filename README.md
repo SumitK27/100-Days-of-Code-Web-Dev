@@ -39,6 +39,7 @@
 34. [**Day 34**](#day-34)
 35. [**Day 35**](#day-35)
 36. [**Day 36**](#day-36)
+37. [**Day 37**](#day-37)
 
 # **Day 1**
 
@@ -625,3 +626,25 @@ Navigate to [**Day 36**](Day%2036)
     -   Background Color
     -   Class Name
     -   Class List
+
+# **Day 37**
+
+Navigate to [**Day 37**](Day%2037)
+
+-   Exercise on DOM
+-   Control Structures
+-   Boolean Values
+-   Types of Operators
+    -   Math
+    -   Concatenation
+    -   Comparison
+        -   Equality
+        -   Greater/Lesser
+        -   Negation
+    -   Logical
+        -   &&
+        -   ||
+-   Types of Control Structures
+    -   Conditions
+        -   If
+    -   Loops
