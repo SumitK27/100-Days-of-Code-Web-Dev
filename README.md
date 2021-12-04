@@ -40,6 +40,7 @@
 35. [**Day 35**](#day-35)
 36. [**Day 36**](#day-36)
 37. [**Day 37**](#day-37)
+38. [**Day 38**](#day-38)
 
 # **Day 1**
 
@@ -648,3 +649,22 @@ Navigate to [**Day 37**](Day%2037)
     -   Conditions
         -   If
     -   Loops
+
+# **Day 38**
+
+Navigate to [**Day 38**](Day%2038)
+
+-   Types of Control Structures
+    -   Conditions
+        -   If
+        -   If Else
+        -   If Else If
+    -   Loops
+        -   For
+        -   For of
+        -   For in
+        -   While
+-   Truthy & Falsy Value
+    -   String
+    -   Numeric
+    -   Boolean
