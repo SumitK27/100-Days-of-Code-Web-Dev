@@ -41,6 +41,7 @@
 36. [**Day 36**](#day-36)
 37. [**Day 37**](#day-37)
 38. [**Day 38**](#day-38)
+39. [**Day 39**](#day-39)
 
 # **Day 1**
 
@@ -668,3 +669,20 @@ Navigate to [**Day 38**](Day%2038)
     -   String
     -   Numeric
     -   Boolean
+
+# **Day 39**
+
+Navigate to [**Day 39**](Day%2039)
+
+-   For Loop
+-   For In Loop
+-   For Of Loop
+-   While Loop
+-   Select Elements using Query Selectors and IDs
+-   Event Listeners
+-   Accessing Input Values
+-   Working with Arrays and Objects
+-   Checking Conditions
+-   Creating and Adding HTML elements
+-   Using Math Object
+-   Modifying Styles using JavaScript
