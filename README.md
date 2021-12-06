@@ -42,6 +42,7 @@
 37. [**Day 37**](#day-37)
 38. [**Day 38**](#day-38)
 39. [**Day 39**](#day-39)
+40. [**Day 40**](#day-40)
 
 # **Day 1**
 
@@ -686,3 +687,10 @@ Navigate to [**Day 39**](Day%2039)
 -   Creating and Adding HTML elements
 -   Using Math Object
 -   Modifying Styles using JavaScript
+
+# **Day 40**
+
+Navigate to [**Day 40**](Day%2040)
+
+-   Started with Tic-Tac-Toe as a Milestone Project
+-   Completed the UI
