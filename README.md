@@ -44,6 +44,7 @@
 39. [**Day 39**](#day-39)
 40. [**Day 40**](#day-40)
 41. [**Day 41**](#day-41)
+42. [**Day 42**](#day-42)
 
 # **Day 1**
 
@@ -701,3 +702,12 @@ Navigate to [**Day 40**](Day%2040)
 Navigate to [**Day 41**](Day%2041)
 
 -   Toggling the config overlay form.
+
+# **Day 42**
+
+Navigate to [**Day 42**](Day%2042)
+
+-   Preventing Default behavior of form submission.
+-   Using FormData object.
+-   Working with data properties.
+-   Completed player configuration section.
