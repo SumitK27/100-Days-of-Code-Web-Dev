@@ -43,6 +43,7 @@
 38. [**Day 38**](#day-38)
 39. [**Day 39**](#day-39)
 40. [**Day 40**](#day-40)
+41. [**Day 41**](#day-41)
 
 # **Day 1**
 
@@ -694,3 +695,9 @@ Navigate to [**Day 40**](Day%2040)
 
 -   Started with Tic-Tac-Toe as a Milestone Project
 -   Completed the UI
+
+# **Day 41**
+
+Navigate to [**Day 41**](Day%2041)
+
+-   Toggling the config overlay form.
