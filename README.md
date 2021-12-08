@@ -45,6 +45,7 @@
 40. [**Day 40**](#day-40)
 41. [**Day 41**](#day-41)
 42. [**Day 42**](#day-42)
+43. [**Day 43**](#day-43)
 
 # **Day 1**
 
@@ -711,3 +712,14 @@ Navigate to [**Day 42**](Day%2042)
 -   Using FormData object.
 -   Working with data properties.
 -   Completed player configuration section.
+
+# **Day 43**
+
+Navigate to [**Day 43**](Day%2043)
+
+-   Verify if usernames are valid before starting a new game.
+-   Displaying game board only after starting a game.
+-   Switching turns and notifying the user.
+-   Avoid selecting a selected block.
+-   Storing the game progress.
+-   Working with two-dimensional arrays.
