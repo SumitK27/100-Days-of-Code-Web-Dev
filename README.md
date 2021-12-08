@@ -46,6 +46,7 @@
 41. [**Day 41**](#day-41)
 42. [**Day 42**](#day-42)
 43. [**Day 43**](#day-43)
+44. [**Day 44**](#day-44)
 
 # **Day 1**
 
@@ -723,3 +724,14 @@ Navigate to [**Day 43**](Day%2043)
 -   Avoid selecting a selected block.
 -   Storing the game progress.
 -   Working with two-dimensional arrays.
+
+# **Day 44**
+
+Navigate to [**Day 44**](Day%2044)
+
+-   Adding winning and draw logic.
+-   Checking for the winning player.
+-   Displaying a message for winning and draw state.
+-   Ending the current game.
+-   Adding Reset Logic.
+-   Avoid selection after the game has ended.
