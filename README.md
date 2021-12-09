@@ -47,6 +47,7 @@
 42. [**Day 42**](#day-42)
 43. [**Day 43**](#day-43)
 44. [**Day 44**](#day-44)
+45. [**Day 45**](#day-45)
 
 # **Day 1**
 
@@ -735,3 +736,19 @@ Navigate to [**Day 44**](Day%2044)
 -   Ending the current game.
 -   Adding Reset Logic.
 -   Avoid selection after the game has ended.
+
+# **Day 45**
+
+Navigate to [**Day 45**](Day%2045)
+
+-   Third Party Packages
+    -   What?
+    -   When & Why?
+-   Third Party Package Example
+    -   CSS
+    -   JavaScript
+-   Third-Party vs Custom Code
+-   Bootstrap
+    -   Starting with Bootstrap
+-   Parallax
+    -   Adding Parallax Effect

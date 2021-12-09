@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #eee;
+}
+
+header {
+    margin-bottom: 5rem;
+}
+
+#carousel-example {
+    width: 100%;
+    max-width: 50rem;
+    height: 30rem;
+    margin: 2rem auto;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#carousel-example img {
+    height: 30rem;
+    object-fit: cover;
+}
+
+#newsletter-signup {
+    background-color: #ccc;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#newsletter-signup > form {
+    max-width: 30rem;
+    margin: 0 auto;
+    text-align: left;
+}
+
+section {
+    width: 100%;
+    max-width: 50rem;
+    margin: 2rem auto;
+}
+
+#main-image {
+    width: 100%;
+    height: 30rem;
+    object-fit: cover;
+}
+
+section img {
+    width: 100%;
+    height: 30rem;
+    object-fit: cover;
+}
