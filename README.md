@@ -48,6 +48,7 @@
 43. [**Day 43**](#day-43)
 44. [**Day 44**](#day-44)
 45. [**Day 45**](#day-45)
+46. [**Day 46**](#day-46)
 
 # **Day 1**
 
@@ -752,3 +753,17 @@ Navigate to [**Day 45**](Day%2045)
     -   Starting with Bootstrap
 -   Parallax
     -   Adding Parallax Effect
+
+# **Day 46**
+
+Navigate to [**Day 46**](Day%2046)
+
+-   Backend
+    -   What?
+    -   Why?
+    -   Browser Instructions
+    -   Frontend vs Backend
+        -   Frontend
+        -   Backend
+    -   Languages
+-   NodeJS
