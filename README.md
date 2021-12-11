@@ -49,6 +49,7 @@
 44. [**Day 44**](#day-44)
 45. [**Day 45**](#day-45)
 46. [**Day 46**](#day-46)
+47. [**Day 47**](#day-47)
 
 # **Day 1**
 
@@ -767,3 +768,15 @@ Navigate to [**Day 46**](Day%2046)
         -   Backend
     -   Languages
 -   NodeJS
+
+# **Day 47**
+
+Navigate to [**Day 47**](Day%2047)
+
+-   Command Line
+-   NodeJS
+    -   What is NodeJS
+    -   Installing NodeJS
+    -   Writing NodeJS Code
+    -   Custom NodeJS Server
+    -   Different responses based on Routes
