@@ -50,6 +50,7 @@
 45. [**Day 45**](#day-45)
 46. [**Day 46**](#day-46)
 47. [**Day 47**](#day-47)
+48. [**Day 48**](#day-48)
 
 # **Day 1**
 
@@ -780,3 +781,14 @@ Navigate to [**Day 47**](Day%2047)
     -   Writing NodeJS Code
     -   Custom NodeJS Server
     -   Different responses based on Routes
+
+# **Day 48**
+
+Navigate to [**Day 48**](Day%2048)
+
+-   NPM
+-   ExpressJS
+    -   Installing Express
+    -   NodeJS vs ExpressJS Code
+    -   Parsing User Data
+    -   File Manipulation
