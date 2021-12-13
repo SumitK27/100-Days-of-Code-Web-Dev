@@ -51,6 +51,7 @@
 46. [**Day 46**](#day-46)
 47. [**Day 47**](#day-47)
 48. [**Day 48**](#day-48)
+49. [**Day 49**](#day-49)
 
 # **Day 1**
 
@@ -792,3 +793,13 @@ Navigate to [**Day 48**](Day%2048)
     -   NodeJS vs ExpressJS Code
     -   Parsing User Data
     -   File Manipulation
+
+# **Day 49**
+
+Navigate to [**Day 49**](Day%2049)
+
+-   Dynamic HTML Pages with NodeJS
+-   NODEMON
+-   Migrating Static HTML to Express Pages
+    -   Serve Static Pages
+    -   Adding Styles and Scripts to our Pages
