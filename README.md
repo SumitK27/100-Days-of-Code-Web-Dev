@@ -52,6 +52,7 @@
 47. [**Day 47**](#day-47)
 48. [**Day 48**](#day-48)
 49. [**Day 49**](#day-49)
+50. [**Day 50**](#day-50)
 
 # **Day 1**
 
@@ -803,3 +804,16 @@ Navigate to [**Day 49**](Day%2049)
 -   Migrating Static HTML to Express Pages
     -   Serve Static Pages
     -   Adding Styles and Scripts to our Pages
+
+# **Day 50**
+
+Navigate to [**Day 50**](Day%2050)
+
+-   Handling Form Inputs
+-   HTML Templates
+    -   Installing EJS
+    -   Adding EJS to your Express app
+    -   Converting HTML to EJS
+    -   Adding Dynamic Data to EJS files
+    -   Passing Data to inject in Template
+    -   Conditional Rendering
