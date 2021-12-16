@@ -67,7 +67,7 @@ app.post("/recommend", function (req, res) {
     const restaurant = req.body;
 
     // Adding ID to the object
-    restaurants.id = uuid.v4();
+    restaurant.id = uuid.v4();
 
     const restaurantsFilePath = path.join(
         __dirname,
