@@ -53,6 +53,7 @@
 48. [**Day 48**](#day-48)
 49. [**Day 49**](#day-49)
 50. [**Day 50**](#day-50)
+51. [**Day 51**](#day-51)
 
 # **Day 1**
 
@@ -817,3 +818,15 @@ Navigate to [**Day 50**](Day%2050)
     -   Adding Dynamic Data to EJS files
     -   Passing Data to inject in Template
     -   Conditional Rendering
+
+# **Day 51**
+
+Navigate to [**Day 51**](Day%2051)
+
+-   Partial Includes
+    -   Static Data
+    -   Dynamic Data
+-   Dynamic Routes
+    -   Adding Unique IDs
+    -   Passing Dynamic Data
+    -   Accessing Data
