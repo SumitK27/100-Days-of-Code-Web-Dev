@@ -54,6 +54,7 @@
 49. [**Day 49**](#day-49)
 50. [**Day 50**](#day-50)
 51. [**Day 51**](#day-51)
+52. [**Day 52**](#day-52)
 
 # **Day 1**
 
@@ -830,3 +831,14 @@ Navigate to [**Day 51**](Day%2051)
     -   Adding Unique IDs
     -   Passing Dynamic Data
     -   Accessing Data
+
+# **Day 52**
+
+Navigate to [**Day 52**](Day%2052)
+
+-   Error Handling (Routes/Middleware)
+    -   404
+        -   Specific Use case
+        -   General Use case (Custom Middleware)
+    -   500
+-   Refactoring Code
