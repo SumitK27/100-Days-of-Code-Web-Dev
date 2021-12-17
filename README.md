@@ -55,6 +55,7 @@
 50. [**Day 50**](#day-50)
 51. [**Day 51**](#day-51)
 52. [**Day 52**](#day-52)
+53. [**Day 53**](#day-53)
 
 # **Day 1**
 
@@ -842,3 +843,10 @@ Navigate to [**Day 52**](Day%2052)
         -   General Use case (Custom Middleware)
     -   500
 -   Refactoring Code
+
+# **Day 53**
+
+Navigate to [**Day 53**](Day%2053)
+
+-   Splitting Routes
+-   Using Query Parameters
