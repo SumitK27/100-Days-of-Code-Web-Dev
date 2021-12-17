@@ -68,7 +68,7 @@ app.post("/recommend", function (req, res) {
 
     const restaurants = resData.getStoredRestaurants();
 
-    restaurantData.push(restaurant);
+    restaurants.push(restaurant);
 
     resData.storeRestaurants(restaurants);
 
