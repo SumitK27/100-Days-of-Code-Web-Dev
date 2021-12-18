@@ -56,6 +56,7 @@
 51. [**Day 51**](#day-51)
 52. [**Day 52**](#day-52)
 53. [**Day 53**](#day-53)
+54. [**Day 54**](#day-54)
 
 # **Day 1**
 
@@ -850,3 +851,20 @@ Navigate to [**Day 53**](Day%2053)
 
 -   Splitting Routes
 -   Using Query Parameters
+
+# **Day 54**
+
+Navigate to [**Day 54**](Day%2054)
+
+-   Functions
+    -   No Parameter
+    -   With Parameter
+    -   Default Parameter
+-   Operators
+    -   Rest
+    -   Spread
+-   Functions are Objects
+-   Template Literal
+-   Primitive vs Reference Values
+    -   Primitive Values
+    -   Reference Values
