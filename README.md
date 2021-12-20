@@ -57,6 +57,7 @@
 52. [**Day 52**](#day-52)
 53. [**Day 53**](#day-53)
 54. [**Day 54**](#day-54)
+55. [**Day 55**](#day-55)
 
 # **Day 1**
 
@@ -868,3 +869,16 @@ Navigate to [**Day 54**](Day%2054)
 -   Primitive vs Reference Values
     -   Primitive Values
     -   Reference Values
+
+# **Day 55**
+
+Navigate to [**Day 55**](Day%2055)
+
+-   Error Handling
+-   Scoping & Shadowing
+    -   Scoping
+    -   Shadowing
+-   Classes and Objects
+-   Destructuring
+    -   Array
+    -   Object
