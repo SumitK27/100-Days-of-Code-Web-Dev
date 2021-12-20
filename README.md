@@ -58,6 +58,7 @@
 53. [**Day 53**](#day-53)
 54. [**Day 54**](#day-54)
 55. [**Day 55**](#day-55)
+56. [**Day 56**](#day-56)
 
 # **Day 1**
 
@@ -882,3 +883,17 @@ Navigate to [**Day 55**](Day%2055)
 -   Destructuring
     -   Array
     -   Object
+
+# **Day 56**
+
+Navigate to [**Day 56**](Day%2056)
+
+-   Synchronous
+-   Asynchronous
+    -   Callback Hell
+    -   Promise
+    -   Error Handling
+    -   Async-Await
+-   Database
+    -   Need?
+    -   Types
