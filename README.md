@@ -59,6 +59,7 @@
 54. [**Day 54**](#day-54)
 55. [**Day 55**](#day-55)
 56. [**Day 56**](#day-56)
+57. [**Day 57**](#day-57)
 
 # **Day 1**
 
@@ -897,3 +898,20 @@ Navigate to [**Day 56**](Day%2056)
 -   Database
     -   Need?
     -   Types
+
+# **Day 57**
+
+Navigate to [**Day 57**](Day%2057)
+
+-   Introduction
+    -   SQL Databases
+    -   NoSQL Databases
+    -   SQL vs NoSQL
+-   SQL Databases
+    -   What?
+    -   Setting Up
+        -   Installation
+        -   Start/Stop the Server
+        -   Usage
+    -   Database Systems vs Databases
+    -   Creating Schema
