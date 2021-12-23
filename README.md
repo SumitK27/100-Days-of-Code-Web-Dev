@@ -60,6 +60,7 @@
 55. [**Day 55**](#day-55)
 56. [**Day 56**](#day-56)
 57. [**Day 57**](#day-57)
+58. [**Day 58**](#day-58)
 
 # **Day 1**
 
@@ -915,3 +916,24 @@ Navigate to [**Day 57**](Day%2057)
         -   Usage
     -   Database Systems vs Databases
     -   Creating Schema
+
+# **Day 58**
+
+Navigate to [**Day 58**](Day%2058)
+
+-   Tables
+    -   Create Table
+    -   Adding Fields
+    -   Inserting Data
+    -   Display Data
+        -   Select All
+        -   Select specific Columns
+        -   Select Conditionally
+    -   Update Data
+    -   Delete Data
+    -   Delete Table
+-   Aggregate Functions
+    -   Count
+    -   Sum
+    -   Average
+-   Complex Structure
