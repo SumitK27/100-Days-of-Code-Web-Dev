@@ -61,6 +61,7 @@
 56. [**Day 56**](#day-56)
 57. [**Day 57**](#day-57)
 58. [**Day 58**](#day-58)
+59. [**Day 59**](#day-59)
 
 # **Day 1**
 
@@ -937,3 +938,17 @@ Navigate to [**Day 58**](Day%2058)
     -   Sum
     -   Average
 -   Complex Structure
+
+# **Day 59**
+
+Navigate to [**Day 59**](Day%2059)
+
+-   Foreign Key
+-   Default Values
+-   Inserting Related Data
+-   Joining Related Data
+-   Alias
+-   Relation Types
+    -   One to One
+    -   One to Many
+    -   Many to Many
