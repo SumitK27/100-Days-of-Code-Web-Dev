@@ -62,6 +62,7 @@
 57. [**Day 57**](#day-57)
 58. [**Day 58**](#day-58)
 59. [**Day 59**](#day-59)
+60. [**Day 60**](#day-60)
 
 # **Day 1**
 
@@ -952,3 +953,13 @@ Navigate to [**Day 59**](Day%2059)
     -   One to One
     -   One to Many
     -   Many to Many
+
+# **Day 60**
+
+Navigate to [**Day 60**](Day%2060)
+
+-   Why Connect the Database on the Backend?
+-   Using MySQL with NodeJS: Blog
+    -   Creating Database Schema
+    -   Inserting Initial Sample Data
+    -   Creating Routes
