@@ -64,6 +64,7 @@
 59. [**Day 59**](#day-59)
 60. [**Day 60**](#day-60)
 61. [**Day 61**](#day-61)
+62. [**Day 62**](#day-62)
 
 # **Day 1**
 
@@ -974,3 +975,12 @@ Navigate to [**Day 61**](Day%2061)
     -   Database Connectivity
     -   Getting Data
     -   Storing Data
+
+# **Day 62**
+
+Navigate to [**Day 62**](Day%2062)
+
+-   Displaying Data
+-   Format Data
+-   Update Data
+-   Deleted Data
