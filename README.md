@@ -65,6 +65,7 @@
 60. [**Day 60**](#day-60)
 61. [**Day 61**](#day-61)
 62. [**Day 62**](#day-62)
+63. [**Day 63**](#day-63)
 
 # **Day 1**
 
@@ -984,3 +985,16 @@ Navigate to [**Day 62**](Day%2062)
 -   Format Data
 -   Update Data
 -   Deleted Data
+
+# **Day 63**
+
+Navigate to [**Day 63**](Day%2063)
+
+-   NoSQL Introduction
+-   Installation
+    -   MongoDB Server
+    -   Testing the Installation
+    -   MongoDB Shell
+-   Using MongoDB
+    -   Creating Database
+    -   Inserting Data
