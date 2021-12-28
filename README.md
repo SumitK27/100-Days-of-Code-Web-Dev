@@ -66,6 +66,7 @@
 61. [**Day 61**](#day-61)
 62. [**Day 62**](#day-62)
 63. [**Day 63**](#day-63)
+64. [**Day 64**](#day-64)
 
 # **Day 1**
 
@@ -998,3 +999,26 @@ Navigate to [**Day 63**](Day%2063)
 -   Using MongoDB
     -   Creating Database
     -   Inserting Data
+
+# **Day 64**
+
+Navigate to [**Day 64**](Day%2064)
+
+-   Reading
+    -   All Documents
+    -   Filter Documents
+    -   Specific Field
+    -   One Document
+-   Updating
+    -   One Document
+    -   All Documents
+-   Delete
+    -   One Document
+    -   All Documents
+-   Operators
+    -   Arithmetic Operators
+    -   Logical Operator
+-   Database Planning
+    -   Types
+    -   Restaurants
+    -   Reviews
