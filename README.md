@@ -67,6 +67,7 @@
 62. [**Day 62**](#day-62)
 63. [**Day 63**](#day-63)
 64. [**Day 64**](#day-64)
+65. [**Day 65**](#day-65)
 
 # **Day 1**
 
@@ -1022,3 +1023,14 @@ Navigate to [**Day 64**](Day%2064)
     -   Types
     -   Restaurants
     -   Reviews
+
+# **Day 65**
+
+Navigate to [**Day 65**](Day%2065)
+
+-   Creating Blogs Website
+    -   Planning Database
+    -   Creating Database Structure
+    -   Connecting to Database
+    -   Fetching Data
+    -   Inserting Data
