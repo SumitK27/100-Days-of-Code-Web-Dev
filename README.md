@@ -68,6 +68,7 @@
 63. [**Day 63**](#day-63)
 64. [**Day 64**](#day-64)
 65. [**Day 65**](#day-65)
+66. [**Day 66**](#day-66)
 
 # **Day 1**
 
@@ -1034,3 +1035,14 @@ Navigate to [**Day 65**](Day%2065)
     -   Connecting to Database
     -   Fetching Data
     -   Inserting Data
+
+# **Day 66**
+
+Navigate to [**Day 66**](Day%2066)
+
+-   Creating Blogs Website
+    -   Fetching Posts
+    -   Fetch Individual Post
+    -   Updating Post
+    -   Delete Post
+    -   Error Handling
