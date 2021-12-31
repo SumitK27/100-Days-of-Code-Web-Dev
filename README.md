@@ -69,6 +69,7 @@
 64. [**Day 64**](#day-64)
 65. [**Day 65**](#day-65)
 66. [**Day 66**](#day-66)
+67. [**Day 67**](#day-67)
 
 # **Day 1**
 
@@ -1046,3 +1047,16 @@ Navigate to [**Day 66**](Day%2066)
     -   Updating Post
     -   Delete Post
     -   Error Handling
+
+# **Day 67**
+
+Navigate to [**Day 67**](Day%2067)
+
+-   Two Sides of File Uploading
+    -   Client-Side
+        -   Input Type
+        -   Form
+    -   Server-Side
+        -   Parsing Incoming File
+        -   Storing Files
+        -   File Storage with Custom Config
