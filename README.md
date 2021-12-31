@@ -70,6 +70,7 @@
 65. [**Day 65**](#day-65)
 66. [**Day 66**](#day-66)
 67. [**Day 67**](#day-67)
+68. [**Day 68**](#day-68)
 
 # **Day 1**
 
@@ -1060,3 +1061,23 @@ Navigate to [**Day 67**](Day%2067)
         -   Parsing Incoming File
         -   Storing Files
         -   File Storage with Custom Config
+
+# **Day 68**
+
+Navigate to [**Day 68**](Day%2068)
+
+-   File Uploading
+    -   Server-Side
+        -   Storing File Path
+        -   Serving Files
+    -   Client-Side
+        -   Adding File Preview
+-   XML
+-   JSON
+-   Ajax
+    -   What?
+        -   XMLHttpRequest
+        -   fetch()
+    -   Why?
+        -   Without AJAX
+        -   With AJAX
