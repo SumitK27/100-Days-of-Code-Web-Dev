@@ -71,6 +71,7 @@
 66. [**Day 66**](#day-66)
 67. [**Day 67**](#day-67)
 68. [**Day 68**](#day-68)
+69. [**Day 69**](#day-69)
 
 # **Day 1**
 
@@ -1081,3 +1082,21 @@ Navigate to [**Day 68**](Day%2068)
     -   Why?
         -   Without AJAX
         -   With AJAX
+
+# **Day 69**
+
+Navigate to [**Day 69**](Day%2069)
+
+-   AJAX Requests
+    -   Server-Side Changes
+    -   GET Request
+    -   POST Request
+    -   Error Handling
+        -   Server-Side Error
+        -   Client-Side Error
+-   HTTP Methods
+    -   GET
+    -   POST
+    -   PUT
+    -   PATCH
+    -   DELETE
