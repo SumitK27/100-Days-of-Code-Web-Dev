@@ -72,6 +72,8 @@
 67. [**Day 67**](#day-67)
 68. [**Day 68**](#day-68)
 69. [**Day 69**](#day-69)
+70. [**Day 70**](#day-70)
+71. [**Day 71**](#day-71)
 
 # **Day 1**
 
@@ -1100,3 +1102,19 @@ Navigate to [**Day 69**](Day%2069)
     -   PUT
     -   PATCH
     -   DELETE
+
+# **Day 70**
+
+Navigate to [**Day 70**](Day%2070)
+
+-   What is Authentication?
+-   User Sign Up
+-   Encrypting Passwords
+
+# **Day 71**
+
+Navigate to [**Day 71**](Day%2071)
+
+-   User Sign In
+-   Adding Sign Up Validation
+-   Sessions & Cookies
