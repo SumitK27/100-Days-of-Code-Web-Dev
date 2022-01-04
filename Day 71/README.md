@@ -1,4 +1,4 @@
-# **Day 70** <!-- omit in toc -->
+# **Day 71** <!-- omit in toc -->
 
 1. [**User Sign In**](#user-sign-in)
 2. [**Adding Sign Up Validation**](#adding-sign-up-validation)
