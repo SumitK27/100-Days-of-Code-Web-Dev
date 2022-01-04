@@ -74,6 +74,7 @@
 69. [**Day 69**](#day-69)
 70. [**Day 70**](#day-70)
 71. [**Day 71**](#day-71)
+72. [**Day 72**](#day-72)
 
 # **Day 1**
 
@@ -1118,3 +1119,12 @@ Navigate to [**Day 71**](Day%2071)
 -   User Sign In
 -   Adding Sign Up Validation
 -   Sessions & Cookies
+
+# **Day 72**
+
+Navigate to [**Day 72**](Day%2072)
+
+-   Storing Sessions
+-   Checking Session
+-   Clear Session
+-   Storing Data Temporary in Sessions
