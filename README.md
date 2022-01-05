@@ -75,6 +75,7 @@
 70. [**Day 70**](#day-70)
 71. [**Day 71**](#day-71)
 72. [**Day 72**](#day-72)
+73. [**Day 73**](#day-73)
 
 # **Day 1**
 
@@ -1128,3 +1129,12 @@ Navigate to [**Day 72**](Day%2072)
 -   Checking Session
 -   Clear Session
 -   Storing Data Temporary in Sessions
+
+# **Day 73**
+
+Navigate to [**Day 73**](Day%2073)
+
+-   Authentication
+-   Authorization
+-   Adding Authorization
+-   Passing Data Globally
