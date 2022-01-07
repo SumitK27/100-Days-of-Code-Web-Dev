@@ -76,6 +76,7 @@
 71. [**Day 71**](#day-71)
 72. [**Day 72**](#day-72)
 73. [**Day 73**](#day-73)
+74. [**Day 74**](#day-74)
 
 # **Day 1**
 
@@ -1138,3 +1139,19 @@ Navigate to [**Day 73**](Day%2073)
 -   Authorization
 -   Adding Authorization
 -   Passing Data Globally
+
+# **Day 74**
+
+Navigate to [**Day 74**](Day%2074)
+
+-   Authentication vs Security
+-   Attack Patters
+    -   CSRF Attacks
+        -   Implementation
+        -   Same-Site Cookie
+        -   Protection
+    -   XSS Attacks
+        -   Implementation
+        -   Protection
+            -   Escaping
+            -   Sanitizing
