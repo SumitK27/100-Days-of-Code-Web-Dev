@@ -77,6 +77,7 @@
 72. [**Day 72**](#day-72)
 73. [**Day 73**](#day-73)
 74. [**Day 74**](#day-74)
+75. [**Day 75**](#day-75)
 
 # **Day 1**
 
@@ -1155,3 +1156,16 @@ Navigate to [**Day 74**](Day%2074)
         -   Protection
             -   Escaping
             -   Sanitizing
+
+# **Day 75**
+
+Navigate to [**Day 75**](Day%2075)
+
+-   SQL Injection
+    -   Implementation
+    -   Protection
+-   NoSQL Injection
+-   Server-side mistakes to avoid
+    -   Static Files
+    -   Errors
+-   Refactoring
