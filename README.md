@@ -78,6 +78,7 @@
 73. [**Day 73**](#day-73)
 74. [**Day 74**](#day-74)
 75. [**Day 75**](#day-75)
+76. [**Day 76**](#day-76)
 
 # **Day 1**
 
@@ -1169,3 +1170,14 @@ Navigate to [**Day 75**](Day%2075)
     -   Static Files
     -   Errors
 -   Refactoring
+
+# **Day 76**
+
+Navigate to [**Day 76**](Day%2076)
+
+-   Clean Code
+-   MVC Pattern
+    -   Model
+    -   View
+    -   Controller
+-   Creating Model
