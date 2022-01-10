@@ -79,6 +79,7 @@
 74. [**Day 74**](#day-74)
 75. [**Day 75**](#day-75)
 76. [**Day 76**](#day-76)
+77. [**Day 77**](#day-77)
 
 # **Day 1**
 
@@ -1181,3 +1182,12 @@ Navigate to [**Day 76**](Day%2076)
     -   View
     -   Controller
 -   Creating Model
+
+# **Day 77**
+
+Navigate to [**Day 77**](Day%2077)
+
+-   Adding Controller
+-   Refactoring Controllers
+-   Problems with Asynchronous Functions
+-   Route Protection
