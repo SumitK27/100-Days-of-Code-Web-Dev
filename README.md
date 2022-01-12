@@ -80,6 +80,7 @@
 75. [**Day 75**](#day-75)
 76. [**Day 76**](#day-76)
 77. [**Day 77**](#day-77)
+78. [**Day 78**](#day-78)
 
 # **Day 1**
 
@@ -1191,3 +1192,13 @@ Navigate to [**Day 77**](Day%2077)
 -   Refactoring Controllers
 -   Problems with Asynchronous Functions
 -   Route Protection
+
+# **Day 78**
+
+Navigate to [**Day 78**](./Day%2078%20-%2092/)
+
+-   Project Planning
+    -   Views
+    -   Models
+-   Project Structure
+-   Installing Dependencies

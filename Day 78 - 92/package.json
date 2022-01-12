@@ -1,0 +1,23 @@
+{
+    "name": "online-shop",
+    "version": "1.0.0",
+    "description": "An online shop made with Node + Express + MongoDB + EJS",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "keywords": [
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB",
+        "EJS"
+    ],
+    "author": "SumitK27",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
