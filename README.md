@@ -81,6 +81,7 @@
 76. [**Day 76**](#day-76)
 77. [**Day 77**](#day-77)
 78. [**Day 78**](#day-78)
+79. [**Day 79**](#day-79)
 
 # **Day 1**
 
@@ -1202,3 +1203,14 @@ Navigate to [**Day 78**](./Day%2078%20-%2092/)
     -   Models
 -   Project Structure
 -   Installing Dependencies
+
+# **Day 79**
+
+Navigate to [**Day 79**](./Day%2078%20-%2092/)
+
+-   Installing EJS
+-   Creating Views
+-   Importing EJS in Express App
+-   Serving EJS files as response
+-   Serving Static Content
+-   Defining CSS Variables

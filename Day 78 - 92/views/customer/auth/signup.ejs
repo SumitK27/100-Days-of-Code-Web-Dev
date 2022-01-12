@@ -1,0 +1,42 @@
+<%- include("../includes/head", { pageTitle: "Signup" }) %>
+    <link rel="stylesheet" href="/styes/forms.css">
+    <link rel="stylesheet" href="/styes/auth.css">
+</head>
+<body>
+    <%- include("../includes/header") %>
+    <main>
+        <h1>Create New Account</h1>
+        <form action="" method="">
+            <p>
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" required>
+            </p>
+            <p>
+                <label for="confirmEmail">Confirm Email</label>
+                <input type="email" name="confirmEmail" id="confirmEmail" required>
+            </p>
+            <p>
+                <label for="password">Password</label>
+                <input type="password" name="password" id="password" minlength="6" required>
+            </p>
+            <p>
+                <label for="fullName">Full Name</label>
+                <input type="text" name="fullName" id="fullName" required>
+            </p>
+            <p>
+                <label for="street">Street</label>
+                <input type="text" name="street" id="street" required>
+            </p>
+            <p>
+                <label for="postal">Postal</label>
+                <input type="text" name="postal" id="postal" minlength="5" maxlength="5" required>
+            </p>
+            <p>
+                <label for="city">City</label>
+                <input type="text" name="city" id="city" required>
+            </p>
+            <button class="btn">Create Account</button>
+            <p id="switch-form"><a href="/login">Login instead</a></p>
+        </form>
+    </main>
+<%- include("../includes/footer") %>

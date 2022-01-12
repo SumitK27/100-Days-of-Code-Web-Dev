@@ -6,6 +6,7 @@
       2. [**Models**](#models)
    2. [**Project Structure**](#project-structure)
    3. [**Installing Dependencies**](#installing-dependencies)
+2. [**Day 79**](#day-79)
 
 # **Day 78**
 
@@ -29,3 +30,14 @@
 $ npm install express # for setting up HTTP server
 $ npm install --save-dev nodemon # for restarting server in development
 ```
+
+---
+
+# **Day 79**
+
+-   Installing EJS
+-   Creating Views
+-   Importing EJS in Express App
+-   Serving EJS files as response
+-   Serving Static Content
+-   Defining CSS Variables
