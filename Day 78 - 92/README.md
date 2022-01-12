@@ -7,6 +7,7 @@
    2. [**Project Structure**](#project-structure)
    3. [**Installing Dependencies**](#installing-dependencies)
 2. [**Day 79**](#day-79)
+3. [**Day 80**](#day-80)
 
 # **Day 78**
 
@@ -41,3 +42,9 @@ $ npm install --save-dev nodemon # for restarting server in development
 -   Serving EJS files as response
 -   Serving Static Content
 -   Defining CSS Variables
+
+# **Day 80**
+
+-   Using CSS Variables
+-   Styling Form Elements
+-   Setting Database Connection

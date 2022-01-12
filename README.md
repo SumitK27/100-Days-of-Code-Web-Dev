@@ -82,6 +82,7 @@
 77. [**Day 77**](#day-77)
 78. [**Day 78**](#day-78)
 79. [**Day 79**](#day-79)
+80. [**Day 80**](#day-80)
 
 # **Day 1**
 
@@ -1214,3 +1215,11 @@ Navigate to [**Day 79**](./Day%2078%20-%2092/)
 -   Serving EJS files as response
 -   Serving Static Content
 -   Defining CSS Variables
+
+# **Day 80**
+
+Navigate to [**Day 80**](./Day%2078%20-%2092/)
+
+-   Using CSS Variables
+-   Styling Form Elements
+-   Setting Database Connection
