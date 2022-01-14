@@ -8,6 +8,7 @@
    3. [**Installing Dependencies**](#installing-dependencies)
 2. [**Day 79**](#day-79)
 3. [**Day 80**](#day-80)
+4. [**Day 81**](#day-81)
 
 # **Day 78**
 
@@ -48,3 +49,10 @@ $ npm install --save-dev nodemon # for restarting server in development
 -   Using CSS Variables
 -   Styling Form Elements
 -   Setting Database Connection
+
+# **Day 81**
+
+-   User SignUp
+-   CSRF Protection
+-   Error Handling
+-   Configuring Session

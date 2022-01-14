@@ -83,6 +83,7 @@
 78. [**Day 78**](#day-78)
 79. [**Day 79**](#day-79)
 80. [**Day 80**](#day-80)
+81. [**Day 81**](#day-81)
 
 # **Day 1**
 
@@ -1223,3 +1224,12 @@ Navigate to [**Day 80**](./Day%2078%20-%2092/)
 -   Using CSS Variables
 -   Styling Form Elements
 -   Setting Database Connection
+
+# **Day 81**
+
+Navigate to [**Day 81**](./Day%2078%20-%2092/)
+
+-   User SignUp
+-   CSRF Protection
+-   Error Handling
+-   Configuring Session
