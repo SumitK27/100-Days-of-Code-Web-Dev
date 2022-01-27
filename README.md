@@ -84,6 +84,7 @@
 79. [**Day 79**](#day-79)
 80. [**Day 80**](#day-80)
 81. [**Day 81**](#day-81)
+82. [**Day 82**](#day-82)
 
 # **Day 1**
 
@@ -1233,3 +1234,11 @@ Navigate to [**Day 81**](./Day%2078%20-%2092/)
 -   CSRF Protection
 -   Error Handling
 -   Configuring Session
+
+# **Day 82**
+
+Navigate to [**Day 82**](./Day%2078%20-%2092/)
+
+-   User Authentication (Login, Logout)
+-   Error Handling with Asynchronous Code
+-   User Input Validation
