@@ -85,6 +85,7 @@
 80. [**Day 80**](#day-80)
 81. [**Day 81**](#day-81)
 82. [**Day 82**](#day-82)
+83. [**Day 83**](#day-83)
 
 # **Day 1**
 
@@ -1242,3 +1243,11 @@ Navigate to [**Day 82**](./Day%2078%20-%2092/)
 -   User Authentication (Login, Logout)
 -   Error Handling with Asynchronous Code
 -   User Input Validation
+
+# **Day 83**
+
+Navigate to [**Day 83**](./Day%2078%20-%2092/)
+
+-   Flashing Error Messages
+-   Admin Authentication with Nav Protection
+-   Navigation Bar with Base Styling

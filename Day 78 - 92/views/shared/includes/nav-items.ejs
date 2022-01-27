@@ -1,0 +1,34 @@
+<ul class="nav-items">
+    <!-- Hidden for Admin -->
+    <% if(!locals.isAdmin) { %>
+    <li><a href="/">Shop</a></li>
+    <li><a href="/cart">Cart</a></li>
+    <% } %>
+
+    <!-- Show if Logged in but not an Admin -->
+    <% if(locals.isAuth && !locals.isAdmin) { %>
+    <li><a href="/orders">Orders</a></li>
+    <% } %>
+
+    <!-- Show only if user is Admin -->
+    <% if(locals.isAdmin) { %>
+    <li><a href="/admin/products">Manage Products</a></li>
+    <li><a href="/admin/orders">Manage Orders</a></li>
+    <% } %>
+
+    <!-- If not logged in -->
+    <% if(!locals.isAuth) { %>
+    <li><a href="/signup">Signup</a></li>
+    <li><a href="/login">Login</a></li>
+    <% } %>
+
+    <!-- If Logged In -->
+    <% if(locals.isAuth) { %>
+    <li>
+        <form action="/logout" method="POST">
+            <input type="hidden" name="_csrf" value="<%= locals.csrfToken %>" />
+            <button>Logout</button>
+        </form>
+    </li>
+    <% } %>
+</ul>

@@ -10,6 +10,7 @@
 3. [**Day 80**](#day-80)
 4. [**Day 81**](#day-81)
 5. [**Day 82**](#day-82)
+6. [**Day 83**](#day-83)
 
 # **Day 78**
 
@@ -63,3 +64,9 @@ $ npm install --save-dev nodemon # for restarting server in development
 -   User Authentication (Login, Logout)
 -   Error Handling with Asynchronous Code
 -   User Input Validation
+
+# **Day 83**
+
+-   Flashing Error Messages
+-   Admin Authentication with Nav Protection
+-   Navigation Bar with Base Styling
