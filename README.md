@@ -86,6 +86,7 @@
 81. [**Day 81**](#day-81)
 82. [**Day 82**](#day-82)
 83. [**Day 83**](#day-83)
+84. [**Day 84**](#day-84)
 
 # **Day 1**
 
@@ -1251,3 +1252,11 @@ Navigate to [**Day 83**](./Day%2078%20-%2092/)
 -   Flashing Error Messages
 -   Admin Authentication with Nav Protection
 -   Navigation Bar with Base Styling
+
+# **Day 84**
+
+Navigate to [**Day 84**](./Day%2078%20-%2092/)
+
+-   Responsive Navbar UI
+-   Hamburger Menu for Mobile Navbar
+-   Views for Admin-side Product Management and Adding Products

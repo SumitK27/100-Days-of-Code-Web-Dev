@@ -11,6 +11,7 @@
 4. [**Day 81**](#day-81)
 5. [**Day 82**](#day-82)
 6. [**Day 83**](#day-83)
+7. [**Day 84**](#day-84)
 
 # **Day 78**
 
@@ -70,3 +71,9 @@ $ npm install --save-dev nodemon # for restarting server in development
 -   Flashing Error Messages
 -   Admin Authentication with Nav Protection
 -   Navigation Bar with Base Styling
+
+# **Day 84**
+
+-   Responsive Navbar UI
+-   Hamburger Menu for Mobile Navbar
+-   Views for Admin-side Product Management and Adding Products

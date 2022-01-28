@@ -79,6 +79,16 @@ a {
     border-color: var(--color-primary-700);
 }
 
+.btn-alt {
+    background-color: transparent;
+    color: var(--color-primary-500);
+}
+
+.btn-alt:hover,
+.btn-alt:active {
+    background-color: var(--color-primary-500-bg);
+}
+
 .alert {
     border-radius: var(--border-radius-small);
     background-color: var(--color-error-100);
